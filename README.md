@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shu-Hao Wu !
+### Hi there 👋 I'm Shu-Hao (Ken) Wu !
 
 I am an incoming graduate student at UIUC, previously worked at Deloitte, Bank as an intern. And my last work is as a backend engineer in Ponddy Education Inc.
 
