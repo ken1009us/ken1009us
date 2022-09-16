@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Shu-Hao (Ken) Wu !
 
-I'm a graduate student at UIUC, my last work is as a backend engineering intern in Ponddy Education Inc.
+I'm a graduate student at UIUC, and my most recent employment is with physIQ as an intern in Software engineering.
 
-I plan to be a software engineer, backend engineer, or IT staff in the future. I can write some programming languages like Java, HTML, JavaScript and Python, and I participated in various practical projects during my last work and the school.
+In the future, I want to work as a software developer, backend engineer, full stack developer or engineering staff. I have experience writing in a variety of computer languages, including Java, HTML, JavaScript, and Python, and I have taken part in a number of real-world projects at both my job and school.
 
 
 <!-- **ken1009us/ken1009us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
