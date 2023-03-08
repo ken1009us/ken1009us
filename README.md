@@ -20,4 +20,4 @@ Here are some ideas to get you started: -->
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ken1009us&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ken1009us&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ken1009us&&hide=jupyter&theme=dark&layout=compact)
