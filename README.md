@@ -4,9 +4,7 @@ Having graduated from the University of Illinois at Urbana-Champaign, my most re
 
 An engineer with a sincere dedication to fostering positive change, I possess experience in coding across multiple languages such as Java, HTML, JavaScript, and Python. My involvement in practical projects at both work and school underscores my ability to apply these skills effectively.
 
-My tenure at PhysIQ significantly amplified my teamwork and communication abilities, complementing my strong foundation in analysis and planning. This synergy has been crucial in devising robust solutions for intricate tasks like API validation. Highlighted projects, including Hungry Snake and an intuitive onboarding Slack bot, underscore my agility and unwavering commitment to continual learning.
-
-I am driven by the potential of technology to drive positive transformations and remain an avid advocate for ongoing personal growth and adaptability. I eagerly anticipate opportunities to collaborate, communicate, and flourish. Let's connect and create meaningful change together!
+Let's connect and create meaningful change together!
 
 <!-- **ken1009us/ken1009us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
