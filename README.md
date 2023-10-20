@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ... -->
 
  <!-- - 🌱 I’m currently an MS student in Information Science at University of Illinois Urbana-Champaign.-->
-- 📫 How to reach me: kenwu1009us[at]gmail.com (Please change [at] to @)
+- 📫 How to reach me: shwu234[at]gmail.com (Please change [at] to @)
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
