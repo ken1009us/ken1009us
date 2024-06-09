@@ -1,10 +1,6 @@
-### Hi there 👋 I'm Shu-Hao (Ken) Wu!
+### Hi there 👋 I'm Ken!
 
-Having graduated from the University of Illinois at Urbana-Champaign, my most recent role was with physIQ as a Software Engineer.
-
-As an engineer with a sincere dedication to fostering positive change, I have experience in coding across multiple languages such as Go, Java, JavaScript, Python, and HTML. My involvement in practical projects at work and school underscores my ability to apply these skills effectively.
-
-Let's connect and create meaningful change together!
+Seasoned Software Engineer with 3+ years of experience in open-source contributions, software development, and data engineering. Proficient in Python, Java, and JavaScript; adept at enhancing software functionality and system reliability. Seeking to leverage expertise in software engineering to drive innovation and efficiency in a new role.
 
 <!-- **ken1009us/ken1009us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +9,7 @@ Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ... -->
 
  <!-- - 🌱 I’m currently an MS student in Information Science at the University of Illinois Urbana-Champaign.-->
-- 📫 How to reach me: shwu235[at]gmail.com (Please change [at] to @)
+- 📫 How to reach me: kenwu0222[at]gmail.com (Please change [at] to @)
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
