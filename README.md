@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ken!
 
-Seasoned Software Engineer with 3+ years of experience in open-source contributions, software development, and data engineering. Proficient in Python, Java, and JavaScript; adept at enhancing software functionality and system reliability. Seeking to leverage expertise in software engineering to drive innovation and efficiency in a new role.
+Seasoned Software / Data geek with 3+ years of experience in open-source contributions, software development, and data engineering. Proficient in Python, Java, and JavaScript; adept at enhancing software functionality and system reliability. Seeking to leverage expertise in software engineering to drive innovation and efficiency in a new role.
 
 <!-- **ken1009us/ken1009us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
