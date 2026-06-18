@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ... -->
 
  <!-- - 🌱 I’m currently an MS student in Information Science at the University of Illinois Urbana-Champaign.-->
-- 📫 How to reach me: kenwu0222[at]gmail.com (Please change [at] to @)
+- 📫 How to reach me: ken.wu.951009[at]gmail.com (Please change [at] to @)
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
